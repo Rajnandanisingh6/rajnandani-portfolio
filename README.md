@@ -4,7 +4,7 @@ My personal developer portfolio built with HTML, CSS and JavaScript.
 
 ## 🌐 Live Portfolio
 
-Coming soon...
+https://rajnandanisingh6.github.io/rajnandani-portfolio/
 
 ## 👩‍💻 About
 
